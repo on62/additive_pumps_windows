@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1514404231 source:c:\msys64\home\tssull1\c++_programs\additive_pumps\csvrow.cpp
+	"CSVRow.h"
+	<iterator>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<map>
+
+1514404231 c:\msys64\home\tssull1\c++_programs\additive_pumps\csvrow.h
+	<iterator>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<map>
+
+1513918915 c:\msys64\mingw64\include\boost\iterator
+
